@@ -1,4 +1,8 @@
-{
-"Value1": "some-val",
-"Value2": "another-val"
-}
+{"Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+    }
+    }
