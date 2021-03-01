@@ -1,7 +1,7 @@
 {
   "Loggingtest": {
     "LogLevel": {
-      "Default": "Debug",
+      "Default": "Test",
       "System": "Information",
       "Microsoft": "Information"
     }
