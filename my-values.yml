@@ -1,7 +1,7 @@
 {
   "Loggingtest": {
     "LogLevel": {
-      "Default": "Iliya",
+      "Default": "Test",
       "System": "Information",
       "Microsoft": "Information"
     }
